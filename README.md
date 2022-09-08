@@ -1,2 +1,2 @@
 # Login-page
-The code is about to create a login page
+The code is to create a login page of any application
